@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormataLayoutExcel", "FormataLayoutExcel.csproj", "{FF0DCE34-B2EC-46AA-83C4-C22D4CBD8371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF0DCE34-B2EC-46AA-83C4-C22D4CBD8371}.Debug|x86.ActiveCfg = Debug|x86
+		{FF0DCE34-B2EC-46AA-83C4-C22D4CBD8371}.Debug|x86.Build.0 = Debug|x86
+		{FF0DCE34-B2EC-46AA-83C4-C22D4CBD8371}.Release|x86.ActiveCfg = Release|x86
+		{FF0DCE34-B2EC-46AA-83C4-C22D4CBD8371}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
