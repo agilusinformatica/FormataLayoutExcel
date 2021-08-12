@@ -17,7 +17,7 @@ namespace FormataLayoutExcel
             Configuracao.LerConfiguracao(out s, out d);
             if (s == String.Empty)
                 throw new Exception("Configuração de acesso não encontrada!");
-            connectionString = @"server=" + s + ";Database=" + d + ";User Id=;Password=;";
+            connectionString = @"server=" + s + ";Database=" + d + ";User Id=formatalayout;Password=K7oaHyCrsA;";
 	    }
 
         private DataTable GeraLista(string comandoSql)

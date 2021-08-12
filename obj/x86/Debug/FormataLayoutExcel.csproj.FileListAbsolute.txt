@@ -21,3 +21,21 @@ C:\Users\Rafael\Desktop\FormataLayoutExcel\bin\Debug\FormataLayoutExcel.exe.conf
 C:\Users\Rafael\Desktop\FormataLayoutExcel\obj\x86\Debug\FormataLayoutExcel.csproj.ResolveComReference.cache
 C:\Users\Rafael\Desktop\FormataLayoutExcel\obj\x86\Debug\FormataLayoutExcel.exe
 C:\Users\Rafael\Desktop\FormataLayoutExcel\obj\x86\Debug\FormataLayoutExcel.pdb
+C:\Agilus Desenvolvimento\FormataLayoutExcel\bin\Debug\FormataLayoutExcel.exe.config
+C:\Agilus Desenvolvimento\FormataLayoutExcel\obj\x86\Debug\FormataLayoutExcel.csproj.ResolveComReference.cache
+C:\Agilus Desenvolvimento\FormataLayoutExcel\obj\x86\Debug\FormataLayoutExcel.exe
+C:\Agilus Desenvolvimento\FormataLayoutExcel\obj\x86\Debug\FormataLayoutExcel.pdb
+C:\Agilus Desenvolvimento\FormataLayoutExcel\bin\Debug\FormataLayoutExcel.exe.manifest
+C:\Agilus Desenvolvimento\FormataLayoutExcel\bin\Debug\FormataLayoutExcel.application
+C:\Agilus Desenvolvimento\FormataLayoutExcel\bin\Debug\FormataLayoutExcel.exe
+C:\Agilus Desenvolvimento\FormataLayoutExcel\bin\Debug\FormataLayoutExcel.pdb
+C:\Agilus Desenvolvimento\FormataLayoutExcel\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Agilus Desenvolvimento\FormataLayoutExcel\bin\Debug\FlexCel.xml
+C:\Agilus Desenvolvimento\FormataLayoutExcel\bin\Debug\es\FlexCel.resources.dll
+C:\Agilus Desenvolvimento\FormataLayoutExcel\obj\x86\Debug\FormataLayoutExcel.csprojResolveAssemblyReference.cache
+C:\Agilus Desenvolvimento\FormataLayoutExcel\obj\x86\Debug\FormataLayoutExcel.AbreExcel.resources
+C:\Agilus Desenvolvimento\FormataLayoutExcel\obj\x86\Debug\FormataLayoutExcel.Config.resources
+C:\Agilus Desenvolvimento\FormataLayoutExcel\obj\x86\Debug\FormataLayoutExcel.Properties.Resources.resources
+C:\Agilus Desenvolvimento\FormataLayoutExcel\obj\x86\Debug\FormataLayoutExcel.csproj.GenerateResource.Cache
+C:\Agilus Desenvolvimento\FormataLayoutExcel\obj\x86\Debug\FormataLayoutExcel.exe.manifest
+C:\Agilus Desenvolvimento\FormataLayoutExcel\obj\x86\Debug\FormataLayoutExcel.application
